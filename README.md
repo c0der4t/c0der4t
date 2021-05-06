@@ -21,7 +21,6 @@ And well, the rest is history📚
 
 ### [The Mixtape](https://music.youtube.com/playlist?list=PL6kAmAcaFknfFOJ6IKGCYGwlZ-XOgX_mD&feature=share) | [Lofi Mix](https://music.youtube.com/playlist?list=PL6kAmAcaFkneP6wMgEEezqE5ztNwqGOPl&feature=share) | [The Battle at Garden’s Gate](https://music.youtube.com/playlist?list=OLAK5uy_mBBIi3zVMP-y4jj-A6JaSEXlvDTNFs0vA&feature=share) | [Look Alive](https://music.youtube.com/playlist?list=OLAK5uy_nP4oT6Y_9Q4hQF1mCuQuvvz9t6jEmgB70&feature=share) | [Telegraph](https://music.youtube.com/playlist?list=OLAK5uy_lVkYy4R4dUiSqli6YZ4J-3uJ1zzNWMUAc&feature=share) | [Vallis Alps](https://music.youtube.com/playlist?list=OLAK5uy_n5hTo0P3HsW5VnHZyanvt-XpBSE4Sh4oY&feature=share)
 
-### 💬 [Tweet-Tweet](https://twitter.com/EkronMonte)
+***
 
-<!-- TWITTER:START -->
-<!-- TWITTER:END -->
+<h3 align="center"> I love to get involved with the developer community, please <a href="mailto:monteekron@gmail.com?">Send Me an Invite to Yours🚀</a></h3>
