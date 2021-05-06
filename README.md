@@ -23,4 +23,13 @@ And well, the rest is history📚
 
 ***
 
-<h3 align="center"> I love to get involved with the developer community, please <a href="mailto:monteekron@gmail.com?">Send Me an Invite to Yours🚀</a></h3>
+<h4 align="center"> I love to get involved with the developer community, please <a href="mailto:monteekron@gmail.com?">Send Me an Invite to Yours🚀</a></h4>
+
+<pre align="center">
+ _____ ___________ ___________  ___ _____ 
+/  __ \  _  |  _  \  ___| ___ \/   |_   _|
+| /  \/ |/' | | | | |__ | |_/ / /| | | |  
+| |   |  /| | | | |  __||    / /_| | | |  
+| \__/\ |_/ / |/ /| |___| |\ \___  | | |  
+ \____/\___/|___/ \____/\_| \_|  |_/ \_/  
+ </pre>
