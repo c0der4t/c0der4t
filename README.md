@@ -1,3 +1,7 @@
+![Image](https://github.com/c0der4t/c0der4t/blob/main/img/hero.png)
+
 ## Passionate Developer | Tech Junkie | Music Lover
 
-Always on the journey of discovering more in the world or code 🚀
+```
+                        only when we accept the darker part of ourselves, can we truly achieve balance
+```
