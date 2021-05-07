@@ -25,6 +25,11 @@ And well, the rest is history📚
 
 <h4 align="center"> I love to get involved with the developer community, please <a href="mailto:monteekron@gmail.com?">Send Me an Invite to Yours🚀</a></h4>
 
+### [Tweet-Tweet](https://twitter.com/EkronMonte)
+
+<!-- TWITTER:START -->
+<!-- TWITTER:END -->
+
 <pre align="center">
  _____ ___________ ___________  ___ _____ 
 /  __ \  _  |  _  \  ___| ___ \/   |_   _|
