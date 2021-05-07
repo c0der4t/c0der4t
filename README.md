@@ -28,6 +28,11 @@ And well, the rest is history📚
 ### [Tweet-Tweet](https://twitter.com/EkronMonte)
 
 <!-- TWITTER:START -->
+- [@EkronMonte: Had a problem passing JSON as an argument using the C# Process API as it goes nuts on all the quotes and spaces | Solution : Base64 the JSON, send it and reverse the Base64 to get JSON🚀@CodeNewbies @dotnet #csharp #Dotnet #programmingtips](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3a34a0eecccf8814918328d4f61eb1492ac7df6bfaa26b74de160c9b62d06de7c31372148f)
+- [@EkronMonte: Got #GoogleAssistant running on Windows 10 using this awesome repo🚀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3a34a0eecccf8814918328d4f61eb1492ac7df6bfbab6c7dd816089168d46be2c01079108c)
+- [@EkronMonte: Recently started using @MorningBrew as a easy, compact way of staying up to date. Quite impressed with it 🚀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3a34a0eecccf8814918328d4f61eb1492ac7df6bfbab6f7edd16089165d06de0c116721c8b)
+- [@EkronMonte: This might be super helpful to so many | Especially the devs who're trying to hit C# on Linux😏 #code #dev @CodeNewbies](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3a34a0eecccf8814918328d4f61eb1492ac7df6bfbaa6275db130d9262d66be4c61579128f)
+- [@EkronMonte: There are so many super cool webinars and resources out there, watching this webinar recording from @code 🚀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3a34a0eecccf8814918328d4f61eb1492ac7df6bfbaa6275dd1d079262d66ce9c0117a1282)
 <!-- TWITTER:END -->
 
 <pre align="center">
