@@ -28,11 +28,11 @@ And well, the rest is history📚
 ### [Latest Tweets](https://twitter.com/EkronMonte)
 
 <!-- TWITTER:START -->
+- [@EkronMonte: That's what I'm talking about 🚀 Gonna have to move my @WakaTime daily goal up 🔥#CodeNewbie #code #programmers #devlife #codegoal](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3a34a0eecccf8814918328d4f61eb1492ac7df6bfaa6637cd9170e9b61d26fe1c31573118d)
 - [@EkronMonte: This is so cool🚀 Congratulations to Andrea Meza for winning #MissUniverse #WomenWhoCode #code](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3a34a0eecccf8814918328d4f61eb1492ac7df6bfaa66f79db170a9b65d26ce3c1177d118a)
 - [@EkronMonte: Found this nifty looking application that uses your email but turns the environment into a WhatsApp chat like environment...it works really well:@delta_chat](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3a34a0eecccf8814918328d4f61eb1492ac7df6bfaa1637eda100d9360d461e5c01b781c8a)
 - [@EkronMonte: Added my latest tweets to my @github readme using this awesome post🚀](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3a34a0eecccf8814918328d4f61eb1492ac7df6bfaa26f78dc15089766d26de6c41179148c)
 - [@EkronMonte: Finally updated my @github readme file, wonder what other @CodeNewbies will think](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3a34a0eecccf8814918328d4f61eb1492ac7df6bfaa26e7edf150a9b66dd60e1c4157e1c83)
-- [@EkronMonte: Had a problem passing JSON as an argument using the C# Process API as it goes nuts on all the quotes and spaces | Solution : Base64 the JSON, send it and reverse the Base64 to get JSON🚀@CodeNewbies @dotnet #csharp #Dotnet #programmingtips](https://rss.app/articles/cb4e791f6f6d729c074351566bd3a7c508111d6e3a34a0eecccf8814918328d4f61eb1492ac7df6bfaa26b74de160c9b62d06de7c31372148f)
 <!-- TWITTER:END -->
 
 <pre align="center">
