@@ -1,4 +1,3 @@
-![Image](https://github.com/c0der4t/c0der4t/blob/main/img/EkronDS%20YT%20Banner(1).png)
 <h2 align="center"> Passionate Developer | Tech Junkie | Music Lover </h2>
                 
 #### Find me/Follow me : [YouTube](https://www.youtube.com/@ekronds) | [Twitter](https://twitter.com/EkronMonte) | [Dev.to](https://dev.to/c0der4t)
@@ -8,7 +7,7 @@ So inevitably the day came when I found myself wondering, how do people tell com
 
 And well, the rest is history📚
 
-## The tongues I type
+## My languages
 ![Languages](https://github.com/c0der4t/c0der4t/blob/main/img/languages.png)
 
 
