@@ -1,6 +1,6 @@
 <h2 align="center"> Passionate Developer | Tech Junkie | Music Lover </h2>
                 
-#### Find me/Follow me : [YouTube](https://www.youtube.com/@ekronds) | [Twitter](https://twitter.com/EkronMonte) | [Dev.to](https://dev.to/c0der4t)
+#### Find me/Follow me : [YouTube](https://www.youtube.com/@c0der4t/featured) | [Twitter](https://twitter.com/EkronMonte)
 
 I have always been drawn to things that make my brain go, 'How does that even work?'. 
 So inevitably the day came when I found myself wondering, how do people tell computers what to think and do...and feel?🧐
